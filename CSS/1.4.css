@@ -1,0 +1,21 @@
+div.relative 
+{
+    position: relative;
+    width: 1330px;
+    height: 800px;
+	top:110px;
+	left:117px;
+}
+
+div.head
+{
+	position: relative;
+	width: 1335px;
+    height: 30px;
+	left:-10px;
+	top: 60px;
+	text-align:left;
+	background: #2D2C2C;
+	padding-left: 250px;
+	padding-top: 20px;
+}
